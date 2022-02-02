@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Reserve test run">
+    <test name="Reserve submit Test">
+        <classes>
+            <class name="TestReserve"/>
+        </classes>
+    </test>
+</suite>
